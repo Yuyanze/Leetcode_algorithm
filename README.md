@@ -8,3 +8,6 @@ https://leetcode-cn.com/problems/linked-list-cycle/
 142. 环形链表II
 给定一个链表，返回链表开始入环的第一个节点。 如果链表无环，则返回 null。
 https://leetcode-cn.com/problems/linked-list-cycle-ii/
+
+求两数之和
+https://leetcode-cn.com/problems/two-sum/comments/
